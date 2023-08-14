@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rohit_tour_plan/static/css/main.99a946db.css",
-    "main.js": "/rohit_tour_plan/static/js/main.861471c9.js",
-    "static/js/787.8dfb54a2.chunk.js": "/rohit_tour_plan/static/js/787.8dfb54a2.chunk.js",
-    "index.html": "/rohit_tour_plan/index.html",
-    "main.99a946db.css.map": "/rohit_tour_plan/static/css/main.99a946db.css.map",
-    "main.861471c9.js.map": "/rohit_tour_plan/static/js/main.861471c9.js.map",
-    "787.8dfb54a2.chunk.js.map": "/rohit_tour_plan/static/js/787.8dfb54a2.chunk.js.map"
+    "main.css": "/new_plan_rohit/static/css/main.99a946db.css",
+    "main.js": "/new_plan_rohit/static/js/main.2e27a71b.js",
+    "static/js/787.8dfb54a2.chunk.js": "/new_plan_rohit/static/js/787.8dfb54a2.chunk.js",
+    "index.html": "/new_plan_rohit/index.html",
+    "main.99a946db.css.map": "/new_plan_rohit/static/css/main.99a946db.css.map",
+    "main.2e27a71b.js.map": "/new_plan_rohit/static/js/main.2e27a71b.js.map",
+    "787.8dfb54a2.chunk.js.map": "/new_plan_rohit/static/js/787.8dfb54a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99a946db.css",
-    "static/js/main.861471c9.js"
+    "static/js/main.2e27a71b.js"
   ]
 }
